@@ -41,7 +41,7 @@ Dataset and model files are not included due to large size.
 ---
 
 ## 👨‍💻 Author
-Khader Gouse  
+Junaid kotwal
 
 ---
 
